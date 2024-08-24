@@ -6,6 +6,8 @@ gitdog on pump.fun
 
 https://pump.fun/BvXxvoy34E9svbuQZzE8FfrCfNz5RfTVzQYbqGxFAanP
 
+https://t.me/+S9iqtvfuHJxhZWRk
+
 ``` // ༼ つ ◕_◕ ༽つ PUMP Gitdog Chat
 // ----------------------------------
 // * Updates instantly
