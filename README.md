@@ -4,7 +4,9 @@ gitdog 🐶
 
 gitdog on pump.fun
 
-// ༼ つ ◕_◕ ༽つ PUMP Gitdog Chat
+https://pump.fun/BvXxvoy34E9svbuQZzE8FfrCfNz5RfTVzQYbqGxFAanP
+
+``` // ༼ つ ◕_◕ ༽つ PUMP Gitdog Chat
 // ----------------------------------
 // * Updates instantly
 // * Multiplayer
@@ -29,4 +31,4 @@ function Chat() {
 
   // 3. Render!
   return <UI data={data} onAdd={addMessage} />;
-}
+}``` 
